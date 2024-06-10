@@ -1,6 +1,6 @@
-.itemList{
-    font-size: 2rem;
+.item-list-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    margin-top: 15px;
-}
+  }
+  
